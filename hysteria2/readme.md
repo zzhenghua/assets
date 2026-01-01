@@ -1,3 +1,9 @@
+# 参考文档：
+
+靠谱文档：https://github.com/zzhenghua/agsb
+
+微信文档：https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485335&idx=1&sn=d30c23d7bca7fd87041f341ca9855ef2&chksm=c333fb35624866db3cc61a814efa8d4ec36c002ee82bfa3bbeca2ba38c9ac9a7df493a3ffa70&mpshare=1&scene=1&srcid=12313y2ZHvqVmigWKoT09eWG&sharer_shareinfo=30e6475b8361f328a67e108c19775430&sharer_shareinfo_first=13d59c798426649b498fcb9b4667b23d#rd
+
 # 操作文档：
 
 ```
